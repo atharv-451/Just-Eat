@@ -1,6 +1,6 @@
 # Just-Eat Android App - Client Side
 
-Welcome to the Just-Eat Android App repository! This Android application is a restaurant-specific food ordering app designed exclusively for any particular restuarant. With Just-Eat, customers can conveniently browse through [Restaurant Name]'s menu, place orders, and enjoy delicious meals, all from the comfort of their mobile devices.
+Welcome to the Just-Eat Android App repository! This Android application is a restaurant-specific food ordering app designed exclusively for any particular restuarant. With Just-Eat, customers can conveniently browse through any particular restuarant's menu, place orders, and enjoy delicious meals, all from the comfort of their mobile devices.
 
 ## Key Features
 
@@ -12,9 +12,7 @@ Welcome to the Just-Eat Android App repository! This Android application is a re
 
 - **User Authentication**: Create an account or log in securely to access personalized features, including order history and user preferences.
 
-- **Secure Payments**: Our app integrates a secure payment gateway, allowing customers to pay for their orders directly within the app.
-
-- **Order Tracking (if supported)**: For added convenience, customers may be able to track their orders in real-time, keeping them informed about their delivery status.
+- **Order Tracking**: For added convenience, customers may be able to track their orders in real-time, keeping them informed about their delivery status.
 
 ## Getting Started
 
