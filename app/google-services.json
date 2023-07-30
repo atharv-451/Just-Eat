@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "467171049934",
+    "project_id": "quikbite-37e20",
+    "storage_bucket": "quikbite-37e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467171049934:android:99bb968a509b0ef7166b9f",
+        "android_client_info": {
+          "package_name": "com.example.eatmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467171049934-jltviib9kcupunvs8v09posd34pdh5nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBdfJOruGVzVW4v81KFLVf272ck12rBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467171049934-jltviib9kcupunvs8v09posd34pdh5nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467171049934:android:84069ed2f3c53455166b9f",
+        "android_client_info": {
+          "package_name": "com.example.quikbite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467171049934-jltviib9kcupunvs8v09posd34pdh5nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBdfJOruGVzVW4v81KFLVf272ck12rBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467171049934-jltviib9kcupunvs8v09posd34pdh5nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
