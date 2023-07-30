@@ -1,5 +1,3 @@
-Sure! Here's the text you can include in the README.md file for the client-side (Android) of the Just-Eat restaurant-specific food ordering application:
-
 # Just-Eat Android App - Client Side
 
 Welcome to the Just-Eat Android App repository! This Android application is a restaurant-specific food ordering app designed exclusively for any particular restuarant. With Just-Eat, customers can conveniently browse through [Restaurant Name]'s menu, place orders, and enjoy delicious meals, all from the comfort of their mobile devices.
